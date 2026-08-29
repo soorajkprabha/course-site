@@ -1,0 +1,3 @@
+sections: syllabus, schedule, resources, contact, previous question bank
+style preference:clean and academic
+Resources: syllabus available in the same folder
