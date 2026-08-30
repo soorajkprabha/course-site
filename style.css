@@ -91,6 +91,16 @@ nav.site-nav a.active { border-bottom-color: #f4ede1; font-weight: 700; }
   color: var(--accent-deep);
 }
 
+.disclaimer {
+  background: #f6ecd9;
+  border-bottom: 1px solid var(--line);
+  color: var(--ink-soft);
+  font-size: 0.85rem;
+  text-align: center;
+  padding: 0.6rem 1.5rem;
+}
+.disclaimer strong { color: var(--accent-deep); }
+
 main { max-width: var(--maxw); margin: 0 auto; padding: 0 1.5rem; }
 
 .hero {
